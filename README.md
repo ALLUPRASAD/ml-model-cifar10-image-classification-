@@ -25,7 +25,7 @@ Traind the Cifar10 data with resnet152 Network
 | 82.4| 75| 20 |
 
 # Model training
-
+Download the data and keep the pickle files in data/cifar-10-batches-py/ 
 Follow the steps provided in train/train.ipynb 
 
 # Inferencing on image 
