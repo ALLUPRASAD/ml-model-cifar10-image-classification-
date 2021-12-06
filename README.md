@@ -4,16 +4,16 @@
 Classify the images present in the cifar10 data set given in the http://www.cs.toronto.edu/~kriz/cifar.html
 _Input_: images and labels present in batch-wise pickle files .
 _Output_: Valid classes:
-0 : airplane
-1 : automobile
-2 : bird
-3 : cat
-4 : deer
-5 : dog
-6 : frog
-7 : horse
-8 : ship
-9 : truck
+1 : airplane
+2 : automobile
+3 : bird
+4 : cat
+5 : deer
+6 : dog
+7 : frog
+8 : horse
+9 : ship
+10 : truck
 
 # model 
 Traind the Cifar10 data with resnet152 Network
